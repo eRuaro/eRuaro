@@ -1,6 +1,4 @@
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
+ 
   
 
 ### <div align="center">I'm Erickson Neil , a self studying Software Engineer and Data Scientist</div>  
