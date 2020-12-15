@@ -1,15 +1,8 @@
 <h1 align="center">Hi 👋, I'm Neil Ruaro</h1>
-<h3 align="center">An enthusiastic software engineer from the Philippines</h3>
+<h3 align="center">An self-taught software engineer and data scientist from the Philippines</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eruaro&label=Profile%20views&color=0e75b6&style=flat" alt="eruaro" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eruaro" alt="eruaro" /></a> </p>
-
-- 🔭 I’m currently working on **Fi-Lox**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
