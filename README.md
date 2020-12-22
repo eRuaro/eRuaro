@@ -10,7 +10,7 @@
 * 😎 I used to study Competitive Programming with C++  
   
 
-- ❓ Ask me about anything related to C++, Flutter, and Python  
+- ❓ Ask me anything related to C++, Flutter, and Python  
   
 
 - ⚡ Fun fact: I read a lot of medium blogs 🤠  
