@@ -8,7 +8,10 @@
   
 
 * 😎 I also study competitive programming with C++  
-  
+
+
+* 👾 I used to do game development with Unity and C#  
+ 
 
 - ❓ Ask me anything related to C++, Flutter, and Python  
   
