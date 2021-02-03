@@ -7,10 +7,10 @@
 - 🌱 I’m currently learning Flutter and Data Science with Python  
   
 
-* 😎 I also study competitive programming with C++  
+* 😎 My first programming language is C++  
 
 
-* 👾 I used to do game development with Unity and C#  
+* 👾 I do game development on the side with Unity and C#  
  
 
 - ❓ Ask me anything related to C++, Flutter, and Python  
