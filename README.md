@@ -4,13 +4,13 @@
 ### <div align="center">I'm Erickson Neil , a self studying Software Engineer and Data Scientist</div>  
   
 
-- 🌱 I’m currently learning Flutter and Data Science with Python  
+- 🌱 I’m currently learning mobile app development with Flutter, and desktop development with C++
   
 
 * 😎 My first programming language is C++  
 
 
-* 👾 I do game development on the side with Unity and C#  
+* 👾 I also learn Python and data science on the side
  
 
 - ❓ Ask me anything related to C++, Flutter, and Python  
