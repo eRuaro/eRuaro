@@ -84,6 +84,8 @@
 
 <br/>  
 
+## Blog Posts
+- [Flutter State Management with Cubits](https://neilruaro.hashnode.dev/using-cubit-for-managing-states-in-flutter) 
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=eruaro&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
