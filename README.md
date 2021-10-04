@@ -4,7 +4,7 @@
 ### <div align="center">I'm Erickson Neil , a self studying Software Engineer and Data Scientist</div>  
   
 
-- 🌱 I’m currently learning mobile app development with Flutter, and desktop development with C++
+- 🌱 I’m currently a software engineer intern at [certik](https://www.certik.io/).
   
 
 * 😎 My first programming language is C++  
@@ -86,6 +86,7 @@
 
 ## Blog Posts
 - [Flutter State Management with Cubits](https://neilruaro.hashnode.dev/using-cubit-for-managing-states-in-flutter) 
+- [Developing RESTful API's with Python and FastAPI](https://neilruaro.hashnode.dev/developing-testing-and-deploying-fastapi-applications).
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=eruaro&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
