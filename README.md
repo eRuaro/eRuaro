@@ -4,16 +4,16 @@
 ### <div align="center">I'm Erickson Neil , a self studying Software Engineer and Data Scientist</div>  
   
 
-- 🌱 I’m currently a software engineer intern at [certik](https://www.certik.io/).
+- 🌱 I’m currently a software engineer at [certik](https://www.certik.io/).
   
 
 * 😎 My first programming language is C++  
 
 
-* 👾 I also learn Python and data science on the side
+* 👾 I also do research on applied machine learning with Python
  
 
-- ❓ Ask me anything related to C++, Flutter, and Python  
+- ❓ Ask me anything related to Flutter, Golang, and Python  
   
 
 - ⚡ Fun fact: I read a lot of medium blogs 🤠  
