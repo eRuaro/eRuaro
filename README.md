@@ -26,7 +26,7 @@ In my free time, I either read, write, or develop projects on topics I'm current
 
 
 ## Rapidfire  
-- 🌱 I’m currently a software engineer at certik.
+- 🌱 I’m currently a software engineer at [certik](certik.io).
 
 * 😎 My first programming language is C++
 
