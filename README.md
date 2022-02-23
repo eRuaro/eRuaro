@@ -25,7 +25,7 @@ In my free time, I either read, write, or develop projects on topics I'm current
 <br/>  
 
 
-## Rapidfire  
+## Get to know me! 
 - 🌱 I’m currently a software engineer at [certik](certik.io).
 
 * 😎 My first programming language is C++
@@ -66,6 +66,9 @@ In my free time, I either read, write, or develop projects on topics I'm current
 
 <br/>  
 
+## Blog Posts
+- [Flutter State Management with Cubits](https://neilruaro.hashnode.dev/using-cubit-for-managing-states-in-flutter) 
+- [Developing RESTful API's with Python and FastAPI](https://neilruaro.hashnode.dev/developing-testing-and-deploying-fastapi-applications).
 
 ## Github Stats  
 <img src="https://github-readme-stats.vercel.app/api?username=eruaro&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />  
