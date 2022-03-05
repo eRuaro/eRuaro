@@ -81,13 +81,12 @@ In my free time, I either read, write, or develop projects on topics I'm current
 
 <br/>  
 
-<div align="center">  
+
 ![Profile views counter](https://komarev.com/ghpvc/?username=eruaro&&style=flat-square)  
-</div>
+
 
 <br/>  
 
-<div align="center">
             <a href="https://www.buymeacoffee.com/eruaro" target="_blank" style="display: inline-block;">
                 <img
                     src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square" 
