@@ -67,6 +67,7 @@ In my free time, I either read, write, or develop projects on topics I'm current
 <br/>  
 
 ## Blog Posts
+- [How to Deploy a TensorFlow Model as a RESTful API Service with Python, Docker, and FastAPI](https://www.freecodecamp.org/news/deploy-an-ml-model-using-fastapi-and-docker/)
 - [Flutter State Management with Cubits](https://neilruaro.hashnode.dev/using-cubit-for-managing-states-in-flutter) 
 - [Developing RESTful API's with Python and FastAPI](https://neilruaro.hashnode.dev/developing-testing-and-deploying-fastapi-applications).
 
