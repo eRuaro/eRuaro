@@ -87,12 +87,8 @@ In my free time, I either read, write, or develop projects on topics I'm current
 
 <br/>  
 <div>
-            <a href="https://www.buymeacoffee.com/eruaro" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square" 
-                    align="center"
-                />
-            </a>
+  <h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/eruaro"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="eruaro" /></a></p><br>
 <br />
 
 ----
