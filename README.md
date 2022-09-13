@@ -17,7 +17,7 @@
 
 
 ### Glad to see you here!  
-I'm a software engineer currently working in the blockchain industry. In my day to day work, I usually work with Flutter, Golang, and Figma in developing applications. I also do practical research on applied machine learning.
+I'm a software engineer currently working in the transportation industry. In my day to day work, I usually work with Flutter, Golang, and Figma in developing applications. I also do practical research on applied machine learning.
 
 In my free time, I either read, write, or develop projects on topics I'm currently learning such as machine learning, deep learning, and back-end development.  
   
@@ -26,7 +26,7 @@ In my free time, I either read, write, or develop projects on topics I'm current
 
 
 ## Get to know me! 
-- 🌱 I’m currently a software engineer at [certik](certik.io).
+- 🌱 I’m currently a software engineer at [Angkas](angkas.com).
 
 * 😎 My first programming language is C++
 
@@ -67,6 +67,7 @@ In my free time, I either read, write, or develop projects on topics I'm current
 <br/>  
 
 ## Blog Posts
+- [How to Create an API Texting Service Using Twilio SMS and Python](https://www.twilio.com/blog/how-to-create-an-api-texting-service-using-twilio-sms-and-python)
 - [How to Deploy a TensorFlow Model as a RESTful API Service with Python, Docker, and FastAPI](https://www.freecodecamp.org/news/deploy-an-ml-model-using-fastapi-and-docker/)
 - [Flutter State Management with Cubits](https://neilruaro.hashnode.dev/using-cubit-for-managing-states-in-flutter) 
 - [Developing RESTful API's with Python and FastAPI](https://neilruaro.hashnode.dev/developing-testing-and-deploying-fastapi-applications).
