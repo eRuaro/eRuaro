@@ -1,96 +1,52 @@
-## I'm Erickson Neil , a Software Engineer and Machine Learning Engineer  
-  
+## Hey, I’m Erickson Neil — Builder of Things  
 
 <div align="center">
-<a href="https://github.com/eruaro" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/neil_ruaro" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/eruaro" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
-
-
-### Glad to see you here!  
-I'm a software engineer currently working in the transportation industry. In my day to day work, I usually work with Flutter, Golang, and Figma in developing applications. I also do practical research on applied machine learning.
-
-In my free time, I either read, write, or develop projects on topics I'm currently learning such as machine learning, deep learning, and back-end development.  
-  
-
-<br/>  
-
-
-## Get to know me! 
-- 🌱 I’m currently a software engineer at [Angkas](angkas.com).
-
-* 😎 My first programming language is C++
-
-* 👾 I also do research on applied machine learning with Python
-
-* ❓ Ask me anything related to Flutter, Golang, and Python
-
-* ⚡ Fun fact: I read a lot 🤠  
-  
-
-<br/>  
-
-
-## Languages and Tools  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />  
+  <a href="https://github.com/eruaro" target="_blank">
+    <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://twitter.com/neil_ruaro" target="_blank">
+    <img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://linkedin.com/in/eruaro" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>  
 </div>  
 
-<br/>  
+---
 
-## Blog Posts
-- [How to Create an API Texting Service Using Twilio SMS and Python](https://www.twilio.com/blog/how-to-create-an-api-texting-service-using-twilio-sms-and-python)
-- [How to Deploy a TensorFlow Model as a RESTful API Service with Python, Docker, and FastAPI](https://www.freecodecamp.org/news/deploy-an-ml-model-using-fastapi-and-docker/)
-- [Flutter State Management with Cubits](https://neilruaro.hashnode.dev/using-cubit-for-managing-states-in-flutter) 
-- [Developing RESTful API's with Python and FastAPI](https://neilruaro.hashnode.dev/developing-testing-and-deploying-fastapi-applications).
+### What I’ve Been Up To  
+- 🧠 **Founder of [Intellecs.AI](https://www.intellecs.ai)** — an AI-first productivity tool with flashcards, smart research, and writing tools  
+  → Scaled to **500,000 users**, with **15–25% free-to-paid** conversion monthly  
+  → Went viral on TikTok multiple times (1M+ views per video)  
+  → Wrote and rebuilt the product from scratch several times, from fullstack infra to DevOps and growth tooling  
+  → Moved to Singapore and raised **VC funding at 19**  
+  → Shut it down after facing student retention issues
 
-## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=eruaro&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />  
+- 🧪 Built [Open Gemini Deep Research](https://github.com/eRuaro/open-gemini-deep-research)  
+  → Open-source research assistant powered by Google’s Gemini  
+  → First of its kind to show **real-time depth, % complete, intermediate learnings, and live sources**  
+  → Features multiple research modes (fast/balanced/comprehensive), recursive deep diving, and report synthesis  
 
-<br/>  
+- 🛠️ Former Software Engineer at **Angkas**  
+  → Led 0→1 experiments with facial auth, in-app navigation, and driver-passenger matching  
+  → Built internal dashboards and analyzed in-app behavior to influence roadmap  
 
-<!-- BLOG-POST-LIST:START -->  
-<!--If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. -->
-<!-- BLOG-POST-LIST:END -->  
+- 🔐 Previously at **CertiK** (wallet & chain infra)  
+  → Led development of their mobile crypto wallet (Flutter, Bloc, TDD)  
+  → Later reassigned to Shentu blockchain core infra (protocol buffers, upgrade handlers)
 
-<br/>  
+---
 
+### Tools I Actually Use  
+**Languages:** Python, Dart, Go, TypeScript, JavaScript  
+**Frameworks:** React, Flutter, FastAPI, Node.js, LangChain  
+**Infra:** Docker, GCP, AWS, DigitalOcean, Firebase  
+**LLM Stack:** Gemini API, Vector DBs, LLM orchestration, streaming agents  
+**Other:** Git, Figma, PostgreSQL, MySQL, Linux  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=eruaro&&style=flat-square)  
+---
 
+### GitHub Stats  
+<img src="https://github-readme-stats.vercel.app/api?username=eruaro&show_icons=true&count_private=true&hide_border=true" width="100%" />  
 
-<br/>  
-<div>
-  <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/eruaro"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="eruaro" /></a></p><br>
-<br />
-
-----
+![Profile views counter](https://komarev.com/ghpvc/?username=eruaro&&style=flat-square)
